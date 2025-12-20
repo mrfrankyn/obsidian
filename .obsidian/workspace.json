@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "a5df89cdcbbf8b27",
+    "type": "split",
+    "children": [
+      {
+        "id": "95f934d1fd08b8a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c95f3816f551980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Переменные и строгий режим.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Переменные и строгий режим"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1062bed8b39e9f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b431d78634073cab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f85e3431e9b29e5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "87f4d427833c741a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "e296ee5d2b903fb4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10a1d03ad64fb669",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b8c42a43b94060f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "256a75c3a090cc69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Без названия/создайте ссылку.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для создайте ссылку"
+            }
+          },
+          {
+            "id": "19274f9f076ee688",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Без названия/создайте ссылку.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из создайте ссылку"
+            }
+          },
+          {
+            "id": "ded167faa4223aa6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "f891c329842a3937",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Без названия/создайте ссылку.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура создайте ссылку"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "4c95f3816f551980",
+  "lastOpenFiles": [
+    "JavaScript/Без названия.base",
+    "JavaScript/Без названия.md",
+    "JavaScript/Без названия",
+    "JavaScript/Переменные и строгий режим.md",
+    "JavaScript/refr.md",
+    "dwdawd",
+    "Grid/CSS Grid.md",
+    "JavaScript",
+    "Без названия.canvas",
+    "Grid/создайте ссылку.md",
+    "Без названия.md",
+    "React.canvas",
+    "Grid"
+  ]
+}
