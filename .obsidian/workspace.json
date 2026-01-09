@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "14b19b9f951d03b6",
+    "id": "a5df89cdcbbf8b27",
     "type": "split",
     "children": [
       {
-        "id": "1417e14463fb9b1d",
+        "id": "dee0d3e959debdd8",
         "type": "tabs",
         "children": [
           {
-            "id": "852171c46996ac66",
+            "id": "51d5b775b86d2f76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Основы JavaScript/Типы данных/Разница между объектами и массивами и неочевидные синтаксические возможности.md",
+                "file": "JavaScript/Основы JavaScript/Простое общение с пользователем.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Разница между объектами и массивами и неочевидные синтаксические возможности"
+              "title": "Простое общение с пользователем"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f36c13561af9e908",
+    "id": "b1062bed8b39e9f2",
     "type": "split",
     "children": [
       {
-        "id": "d97afbb0a72df8db",
+        "id": "b431d78634073cab",
         "type": "tabs",
         "children": [
           {
-            "id": "fcaaee1fcea292e4",
+            "id": "f85e3431e9b29e5c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "f828a1f5e72a232b",
+            "id": "87f4d427833c741a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "2b3de2a07c940db4",
+            "id": "e296ee5d2b903fb4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 300
   },
   "right": {
-    "id": "c81c947eec915df7",
+    "id": "10a1d03ad64fb669",
     "type": "split",
     "children": [
       {
-        "id": "3994ca513c0e6afa",
+        "id": "2b8c42a43b94060f",
         "type": "tabs",
         "children": [
           {
-            "id": "df09a0ddca46e6c2",
+            "id": "256a75c3a090cc69",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Основы JavaScript/Типы данных/Разница между объектами и массивами и неочевидные синтаксические возможности.md",
+                "file": "JavaScript/Основы JavaScript/Простое общение с пользователем.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Разница между объектами и массивами и неочевидные синтаксические возможности"
+              "title": "Обратные ссылки для Простое общение с пользователем"
             }
           },
           {
-            "id": "c6016dfb51a4fd14",
+            "id": "19274f9f076ee688",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Без названия/создайте ссылку.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из создайте ссылку"
             }
           },
           {
-            "id": "4145d98cbe2c3739",
+            "id": "ded167faa4223aa6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,46 +137,21 @@
             }
           },
           {
-            "id": "fc111d40ac101205",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
-            }
-          },
-          {
-            "id": "919b309d838d3768",
+            "id": "f891c329842a3937",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Основы JavaScript/Типы данных/Разница между объектами и массивами и неочевидные синтаксические возможности.md",
+                "file": "Без названия/создайте ссылку.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Разница между объектами и массивами и неочевидные синтаксические возможности"
-            }
-          },
-          {
-            "id": "bdfe722d1a0511c4",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "title": "Структура создайте ссылку"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,27 +160,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "852171c46996ac66",
+  "active": "51d5b775b86d2f76",
   "lastOpenFiles": [
+    "Pasted image 20260109231018.png",
+    "JavaScript/Основы JavaScript/Простое общение с пользователем.md",
     "JavaScript/Основы JavaScript/Переменные и строгий режим.md",
-    "JavaScript/Основы JavaScript/Типы данных/Разница между объектами и массивами и неочевидные синтаксические возможности.md",
     "JavaScript/Основы JavaScript/Типы данных/Классификация типов данных в JS.md",
-    "Без названия.canvas",
-    "JavaScript/Без названия.md",
-    "JavaScript/Основы JavaScript",
-    "JavaScript/Типы данных.md",
+    "JavaScript/Основы JavaScript/Типы данных/Разница между объектами и массивами и неочевидные синтаксические возможности.md",
     "JavaScript/Основы JavaScript/Типы данных",
+    "JavaScript/Основы JavaScript",
     "GitExtensions.settings",
-    "JavaScript"
+    "JavaScript/Правила и типы названия переменных.md",
+    "JavaScript/Без названия/уаауа.md",
+    "JavaScript/Без названия",
+    "Без названия.canvas",
+    "JavaScript/Переменные и строгий режим.md",
+    "Без названия",
+    "JavaScript/Без названия.base",
+    "JavaScript/refr.md",
+    "dwdawd",
+    "Grid/CSS Grid.md",
+    "JavaScript",
+    "Grid/создайте ссылку.md",
+    "Без названия.md",
+    "React.canvas",
+    "Grid"
   ]
 }

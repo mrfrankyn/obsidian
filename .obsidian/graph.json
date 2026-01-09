@@ -25,6 +25,10 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< obsidian/origin
   "scale": 1.4019828977761024,
+=======
+  "scale": 0.7132754626224435,
+>>>>>>> local
   "close": true
 }
