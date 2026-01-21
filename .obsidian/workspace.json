@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Основы JavaScript/Операторы.md",
+                "file": "JavaScript/Основы JavaScript/Практика/Практики ч1..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Операторы"
+              "title": "Практики ч1."
             }
           }
         ]
@@ -172,14 +172,16 @@
   },
   "active": "eae7c940b60d67a0",
   "lastOpenFiles": [
-    "JavaScript/Основы JavaScript/Интерполяция.md",
-    "().md",
-    "JavaScript/Основы JavaScript/Операторы.md",
     "JavaScript/Основы JavaScript/Простое общение с пользователем.md",
-    "Pasted image 20260109231018.png",
     "JavaScript/Основы JavaScript/Переменные и строгий режим.md",
-    "JavaScript/Основы JavaScript/Типы данных/Классификация типов данных в JS.md",
+    "JavaScript/Основы JavaScript/Операторы.md",
+    "JavaScript/Основы JavaScript/Интерполяция.md",
     "JavaScript/Основы JavaScript/Типы данных/Разница между объектами и массивами и неочевидные синтаксические возможности.md",
+    "JavaScript/Основы JavaScript/Типы данных/Классификация типов данных в JS.md",
+    "JavaScript/Основы JavaScript/Практика/Практики ч1..md",
+    "JavaScript/Основы JavaScript/Практика",
+    "().md",
+    "Pasted image 20260109231018.png",
     "JavaScript/Основы JavaScript/Типы данных",
     "JavaScript/Основы JavaScript",
     "GitExtensions.settings",
