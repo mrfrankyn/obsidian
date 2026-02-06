@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Основы JavaScript/Циклы/Циклы.md",
+                "file": "JavaScript/Основы JavaScript/Циклы/Цикл в цикле и метки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Циклы"
+              "title": "Цикл в цикле и метки"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Основы JavaScript/Простое общение с пользователем.md",
+                "file": "JavaScript/Основы JavaScript/Циклы/Цикл в цикле и метки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Простое общение с пользователем"
+              "title": "Обратные ссылки для Цикл в цикле и метки"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия/создайте ссылку.md",
+                "file": "JavaScript/Основы JavaScript/Циклы/Цикл в цикле и метки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из создайте ссылку"
+              "title": "Исходящие ссылки из Цикл в цикле и метки"
             }
           },
           {
@@ -142,41 +142,63 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия/создайте ссылку.md",
+                "file": "JavaScript/Основы JavaScript/Циклы/Цикл в цикле и метки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура создайте ссылку"
+              "title": "Структура Цикл в цикле и метки"
+            }
+          },
+          {
+            "id": "7e021be35117cbd0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "704ed89fe7cc3978",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "244a37ddb68d5b3b",
+  "active": "ded167faa4223aa6",
   "lastOpenFiles": [
+    "JavaScript/Основы JavaScript/Циклы/Циклы.md",
+    "JavaScript/Основы JavaScript/Циклы/Цикл в цикле и метки.md",
     "Pasted image 20260205232601.png",
     "JavaScript/Основы JavaScript/Типы данных/Разница между объектами и массивами и неочевидные синтаксические возможности.md",
     "JavaScript/Основы JavaScript/Простое общение с пользователем.md",
     "JavaScript/Основы JavaScript/Практика/Практики ч1..md",
-    "JavaScript/Основы JavaScript/Циклы/Циклы.md",
     "JavaScript/Основы JavaScript/Циклы",
     "JavaScript/Основы JavaScript/Без названия.md",
     "JavaScript/Основы JavaScript/Логические операторы.md",
