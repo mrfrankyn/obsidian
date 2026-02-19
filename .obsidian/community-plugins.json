@@ -3,6 +3,9 @@
   "painter",
   "obsidian-icon-folder",
   "table-editor-obsidian",
-  "execute-code",
-  "code-styler"
+  "code-styler",
+  "code-emitter",
+  "image-converter",
+  "drawio-obsidian",
+  "obsidian-git"
 ]
