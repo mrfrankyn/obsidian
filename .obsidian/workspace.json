@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dfb8973c4baaca0f",
+        "id": "6eba60678e7ef0c9",
         "type": "tabs",
         "children": [
           {
-            "id": "244a37ddb68d5b3b",
+            "id": "82a2fb68b3328acb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Основы JavaScript/029 Передача по ссылке или по значению, Spread оператор (ES6-ES9).md",
+                "file": "JavaScript/Основы JavaScript/Практика/Практика ч4. Использование объектов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "029 Передача по ссылке или по значению, Spread оператор (ES6-ES9)"
+              "title": "Практика ч4. Использование объектов"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 440.5,
+    "collapsed": true
   },
   "right": {
     "id": "10a1d03ad64fb669",
@@ -203,26 +204,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "244a37ddb68d5b3b",
+  "active": "82a2fb68b3328acb",
   "lastOpenFiles": [
-    "JavaScript/Основы JavaScript/024 (д) Метод trim().md",
+    "JavaScript/Основы JavaScript/Практика/Практика ч3. использования функций.md",
+    "JavaScript/Основы JavaScript/027 Массивы и псевдомассивы.md",
     "JavaScript/Основы JavaScript/026 Объекты, деструктуризация объектов (ES6).md",
+    "JavaScript/Основы JavaScript/025 Callback- функции.md",
+    "JavaScript/Основы JavaScript/024 (д) Метод trim().md",
+    "JavaScript/Основы JavaScript/014 Условия.md",
+    "JavaScript/Основы JavaScript/015 (д) Логические операторы.md",
     "JavaScript/Основы JavaScript/019 Функции, стрелочные ф-ции (ES6).md",
+    "JavaScript/Основы JavaScript/022 Методы и свойства строк и чисел.md",
+    "JavaScript/Основы JavaScript/003 Переменные и строгий режим.md",
+    "JavaScript/Основы JavaScript/007 Простое общение с пользователем.md",
+    "JavaScript/Основы JavaScript/008 Интерполяция (ES6).md",
+    "JavaScript/Основы JavaScript/009 Операторы в JS.md",
+    "JavaScript/Основы JavaScript/Практика/Практика ч4. Использование объектов.md",
+    "JavaScript/Основы JavaScript/Циклы/016 Циклы.md",
+    "JavaScript/Основы JavaScript/Циклы/017 (д) Цикл в цикле и метки.md",
+    "proto.png",
+    "JavaScript/Основы JavaScript/030 Основы ООП, прототипно-ориетированное наследование.md",
     "JavaScript/Основы JavaScript/029 Передача по ссылке или по значению, Spread оператор (ES6-ES9).md",
     "JavaScript/Основы JavaScript/Типы данных/005 Классификация типов данных в JavaScript.md",
-    "JavaScript/Основы JavaScript/027 Массивы и псевдомассивы.md",
-    "JavaScript/Основы JavaScript/025 Callback- функции.md",
-    "JavaScript/Основы JavaScript/022 Методы и свойства строк и чисел.md",
-    "JavaScript/Основы JavaScript/009 Операторы в JS.md",
-    "JavaScript/Основы JavaScript/Циклы/017 (д) Цикл в цикле и метки.md",
-    "JavaScript/Основы JavaScript/Циклы/016 Циклы.md",
-    "JavaScript/Основы JavaScript/015 (д) Логические операторы.md",
-    "JavaScript/Основы JavaScript/014 Условия.md",
-    "JavaScript/Основы JavaScript/008 Интерполяция (ES6).md",
-    "JavaScript/Основы JavaScript/007 Простое общение с пользователем.md",
     "JavaScript/Основы JavaScript/Типы данных/006 (д) Разница между объектами и массивами и неочевидные синтаксические возможности.md",
-    "JavaScript/Основы JavaScript/003 Переменные и строгий режим.md",
-    "JavaScript/Основы JavaScript/Практика/Практика ч3. использования функций.md",
     "JavaScript/Основы JavaScript/Практика/Практика ч2..md",
     "JavaScript/Основы JavaScript/Практика/Практики ч1..md",
     "Pasted image 20260205232601.png",
@@ -237,12 +241,9 @@
     "JavaScript/Без названия/уаауа.md",
     "JavaScript/Без названия",
     "Без названия.canvas",
-    "JavaScript/Переменные и строгий режим.md",
     "Без названия",
     "JavaScript/Без названия.base",
-    "JavaScript/refr.md",
     "dwdawd",
-    "Grid/CSS Grid.md",
     "JavaScript",
     "React.canvas"
   ]
